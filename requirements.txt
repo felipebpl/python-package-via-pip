@@ -1,2 +1,2 @@
-pacote>=1.0,
-pacote2
+setuptools,
+requests
